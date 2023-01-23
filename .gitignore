@@ -1,6 +1,8 @@
 #OS
-
 .DS_Store
+
+# config file
+congig.py
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
