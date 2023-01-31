@@ -1,0 +1,53 @@
+,period,seriesId,seriesDescription,stateId,stateDescription,unit
+0,2021,ESTCP,"Electricity total consumption (i.e., retail sales)",TN,Tennessee,Million kilowatthours
+1,2021,ESTCP,"Electricity total consumption (i.e., retail sales)",DE,Delaware,Million kilowatthours
+2,2021,ESTCP,"Electricity total consumption (i.e., retail sales)",GA,Georgia,Million kilowatthours
+3,2021,ESTCP,"Electricity total consumption (i.e., retail sales)",IN,Indiana,Million kilowatthours
+4,2021,ESTCP,"Electricity total consumption (i.e., retail sales)",AR,Arkansas,Million kilowatthours
+5,2021,ESTCP,"Electricity total consumption (i.e., retail sales)",MS,Mississippi,Million kilowatthours
+6,2021,ESTCP,"Electricity total consumption (i.e., retail sales)",ID,Idaho,Million kilowatthours
+7,2021,ESTCP,"Electricity total consumption (i.e., retail sales)",WI,Wisconsin,Million kilowatthours
+8,2021,ESTCP,"Electricity total consumption (i.e., retail sales)",OH,Ohio,Million kilowatthours
+9,2021,ESTCP,"Electricity total consumption (i.e., retail sales)",KY,Kentucky,Million kilowatthours
+10,2021,ESTCP,"Electricity total consumption (i.e., retail sales)",SD,South Dakota,Million kilowatthours
+11,2021,ESTCP,"Electricity total consumption (i.e., retail sales)",OR,Oregon,Million kilowatthours
+12,2021,ESTCP,"Electricity total consumption (i.e., retail sales)",NH,New Hampshire,Million kilowatthours
+13,2021,ESTCP,"Electricity total consumption (i.e., retail sales)",VA,Virginia,Million kilowatthours
+14,2021,ESTCP,"Electricity total consumption (i.e., retail sales)",RI,Rhode Island,Million kilowatthours
+15,2021,ESTCP,"Electricity total consumption (i.e., retail sales)",MN,Minnesota,Million kilowatthours
+16,2021,ESTCP,"Electricity total consumption (i.e., retail sales)",NJ,New Jersey,Million kilowatthours
+17,2021,ESTCP,"Electricity total consumption (i.e., retail sales)",PA,Pennsylvania,Million kilowatthours
+18,2021,ESTCP,"Electricity total consumption (i.e., retail sales)",CO,Colorado,Million kilowatthours
+19,2021,ESTCP,"Electricity total consumption (i.e., retail sales)",NM,New Mexico,Million kilowatthours
+20,2021,ESTCP,"Electricity total consumption (i.e., retail sales)",WY,Wyoming,Million kilowatthours
+21,2021,ESTCP,"Electricity total consumption (i.e., retail sales)",AK,Alaska,Million kilowatthours
+22,2021,ESTCP,"Electricity total consumption (i.e., retail sales)",MA,Massachusetts,Million kilowatthours
+23,2021,ESTCP,"Electricity total consumption (i.e., retail sales)",IA,Iowa,Million kilowatthours
+24,2021,ESTCP,"Electricity total consumption (i.e., retail sales)",NV,Nevada,Million kilowatthours
+25,2021,ESTCP,"Electricity total consumption (i.e., retail sales)",TX,Texas,Million kilowatthours
+26,2021,ESTCP,"Electricity total consumption (i.e., retail sales)",DC,District of Columbia,Million kilowatthours
+27,2021,ESTCP,"Electricity total consumption (i.e., retail sales)",CA,California,Million kilowatthours
+28,2021,ESTCP,"Electricity total consumption (i.e., retail sales)",VT,Vermont,Million kilowatthours
+29,2021,ESTCP,"Electricity total consumption (i.e., retail sales)",UT,Utah,Million kilowatthours
+30,2021,ESTCP,"Electricity total consumption (i.e., retail sales)",OK,Oklahoma,Million kilowatthours
+31,2021,ESTCP,"Electricity total consumption (i.e., retail sales)",AL,Alabama,Million kilowatthours
+32,2021,ESTCP,"Electricity total consumption (i.e., retail sales)",HI,Hawaii,Million kilowatthours
+33,2021,ESTCP,"Electricity total consumption (i.e., retail sales)",KS,Kansas,Million kilowatthours
+34,2021,ESTCP,"Electricity total consumption (i.e., retail sales)",WA,Washington,Million kilowatthours
+35,2021,ESTCP,"Electricity total consumption (i.e., retail sales)",MI,Michigan,Million kilowatthours
+36,2021,ESTCP,"Electricity total consumption (i.e., retail sales)",MD,Maryland,Million kilowatthours
+37,2021,ESTCP,"Electricity total consumption (i.e., retail sales)",NY,New York,Million kilowatthours
+38,2021,ESTCP,"Electricity total consumption (i.e., retail sales)",WV,West Virginia,Million kilowatthours
+39,2021,ESTCP,"Electricity total consumption (i.e., retail sales)",IL,Illinois,Million kilowatthours
+40,2021,ESTCP,"Electricity total consumption (i.e., retail sales)",ND,North Dakota,Million kilowatthours
+41,2021,ESTCP,"Electricity total consumption (i.e., retail sales)",SC,South Carolina,Million kilowatthours
+42,2021,ESTCP,"Electricity total consumption (i.e., retail sales)",US,United States,Million kilowatthours
+43,2021,ESTCP,"Electricity total consumption (i.e., retail sales)",NC,North Carolina,Million kilowatthours
+44,2021,ESTCP,"Electricity total consumption (i.e., retail sales)",MT,Montana,Million kilowatthours
+45,2021,ESTCP,"Electricity total consumption (i.e., retail sales)",FL,Florida,Million kilowatthours
+46,2021,ESTCP,"Electricity total consumption (i.e., retail sales)",AZ,Arizona,Million kilowatthours
+47,2021,ESTCP,"Electricity total consumption (i.e., retail sales)",ME,Maine,Million kilowatthours
+48,2021,ESTCP,"Electricity total consumption (i.e., retail sales)",NE,Nebraska,Million kilowatthours
+49,2021,ESTCP,"Electricity total consumption (i.e., retail sales)",CT,Connecticut,Million kilowatthours
+50,2021,ESTCP,"Electricity total consumption (i.e., retail sales)",MO,Missouri,Million kilowatthours
+51,2021,ESTCP,"Electricity total consumption (i.e., retail sales)",LA,Louisiana,Million kilowatthours
