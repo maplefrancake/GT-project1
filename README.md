@@ -3,7 +3,7 @@ Project 1 for the Georgia Tech Data Analytics Bootcamp
 
 README writeup:
 
-As a group, we wanted to analyze the relationships among temperature, consumption, and the cost of electricity per kilowatt hour in the United States. We looked to the U.S. Energy Information Administration’s (EIA) available API to gather data on the price for electricity per month in the past 10 years. Additionally, we used the EIA’s API to gather data on the consumption of electricity across the States in the year 2021 (more information here). Lastly, we used the National Centers for Environmental Information’s Climate Data Online to get information on the average temperatures over time in the States in the year 2021 (more information here).
+As a group, we wanted to analyze the relationships among temperature, consumption, and the cost of electricity per kilowatt hour in the United States. We looked to the U.S. Energy Information Administration’s (EIA) available API to gather data on the price for electricity per month in the past 10 years. Additionally, we used the EIA’s API to gather data on the consumption of electricity across the States in the year 2021 (more information here: https://www.eia.gov/opendata/documentation.php). Lastly, we used the National Centers for Environmental Information’s Climate Data Online to get information on the average temperatures over time in the States in the year 2021 (more information here: https://www.ncei.noaa.gov/cdo-web/).
 
 Goals
 
