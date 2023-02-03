@@ -2,7 +2,7 @@
 .DS_Store
 
 # config file
-congig.py
+config.py
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
